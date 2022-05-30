@@ -47,7 +47,7 @@ program.
 
 ## 🔖 Introduction
 	
-Taking a pulse is a very important part of heart health checks. A person's resting heart rate is a major factor in determining a person's risk of a heart attack. So, what if you could determine the pulse rate with just using webcam/camera? Early detection of Genetic Diseases  help in early intervention and treatment, which may either cure the disease or improve the outcome of the patient but still doctors struggle to recognize as they don't spench much time with them.
+Taking a pulse is a very important part of heart health checks. A person's resting heart rate is a major factor in determining a person's risk of a heart attack. So, what if you could determine the pulse rate with just using webcam/camera?   Early detection of Genetic Diseases  help in early intervention and treatment, which may either cure the disease or improve the outcome of the patient but still doctors struggle to recognize as they don't spench much time with them.
 												    
 Keeping all this in mind, introducting you my project micro-MediDetect-age...
 												    
@@ -57,17 +57,29 @@ micro-MediDetect-age is a non-invasive and no cost diagnosis solution to check p
 
 ## 💡Features
 	
-☢ 
+👩‍💻 ## User Login/ Signup 
+1.1 Description: Users can securely login with their email id and password used
+for creating an account on micro-MediDetect-age
+1.1.1 Input: Name, email ID, password for account creation, and email ID
+and password
+1.1.2 Output: Redirect if successful login/ account creation and error
+message displayed if wrong details entered. 
 
-⚡ 
+🫀 ## Heart Rate Detector Model:
+2.1 Face Recognition
+2.2 Forehead detect in face
+2.2 Heart Rate/ Pulse Rate Detection Model
+2.3 Web Electrocardiogram Generation
 	
-📺 
+👁️ ## Wilson Syndrome Detector 
+3.1 Face and Eye Recognition
+3.2  Kayser-Fleischer rings / Brown rings detection in eyes to detect disease
 
-🌿 
+⚕️## Genetic Disease Detector
+🏥 ## Immediate Hospital Finder
+🤖 ## Voice Chat Bot
+🧻 ## Proper Documentation
 
-🧬 
-
-⚛ 
 
 <br> </br>
 ## 🌻 Motivation
