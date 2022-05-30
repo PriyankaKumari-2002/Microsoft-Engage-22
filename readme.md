@@ -75,10 +75,10 @@ message displayed if wrong details entered.  <br>
 3.1 Face and Eye Recognition <br>
 3.2  Kayser-Fleischer rings / Brown rings detection in eyes to detect disease <br>
 
- ⚕️ **Genetic Disease Detector**
- 🏥 **Immediate Hospital Finder**
-## 🤖 **Voice Chat Bot**
-## 🧻 **Proper Documentation**
+ ⚕️ **Genetic Disease Detector**  <br>
+ 🏥 **Immediate Hospital Finder** <br>
+ 🤖 **Voice Chat Bot**  <br>
+ 🧻 **Proper Documentation** <br>
 
 <br>
 
