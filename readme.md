@@ -92,15 +92,15 @@ message displayed if wrong details entered.  <br>
 
 ## 🧰 Tools and Technologies used
 
-Frontend:
+## Frontend:
 ● HTML
 ● CSS
 ● Javascript
-● Jquery
-Backend:
+● Jquery <br>
+## Backend:
 ● PHP
-● MySQL for database
-Building models/features:
+● MySQL for database <br>
+## Building models/features:
 ● Python
 ● Machine Learning
 ● Tensorflow
@@ -108,9 +108,9 @@ Building models/features:
 ● Pytorch
 ● Streamlit
 ● Numpy
-● Deep Learning
-Design												    
-● Figma
+● Deep Learning <br>
+## Design												    
+● Figma <br>
 
 
 
