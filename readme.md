@@ -2,7 +2,7 @@
 This is my project for Microsoft Engage 2022 under Face Recognition track to diagnose diseases. 
 <p align="center">
 <a href="https://acehacker.com/microsoft/engage2022/">
-	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/micro-mediDetect-age/micromedidetectage.png?raw=true" alt="Microsoft Engage 22"/>
+	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/micro-mediDetect-age/micromedidetectage.png?raw=true width="600", height="200" alt="Microsoft Engage 22"/>
 </a>
 	<h2 align="center">micro-MediDetect-age</h2>
 	<h3 align="center">A non-invasive and no cost diagnosis solution to check pulse rate and genetic diseases remotely and safely...<h3>
