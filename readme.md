@@ -13,7 +13,7 @@ This is my project for Microsoft Engage 2022 under Face Recognition track to dia
 [![VIDEO ](https://img.shields.io/badge/Video-Link%20to%20Video-blue?style=flat-square&logo=appveyor)](https://youtu.be/QJ9o6T1rgBw)
  </p>
   
-
+<p align="center">
     <a href="https://docs.google.com/document/d/1ywypT24DVXsVZUW7jRAg4Z631YMjOSPI4hjyhklrhx8/edit?usp=sharing"><strong>Check Project Documentation »</strong></a>
     <br />
     <br />
