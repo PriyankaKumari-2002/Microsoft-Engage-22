@@ -82,7 +82,7 @@ message displayed if wrong details entered.  <br>
 
 
 <br> </br>
-## 🌻 Motivation
+
 
 
 
@@ -92,15 +92,15 @@ message displayed if wrong details entered.  <br>
 
 ## 🧰 Tools and Technologies used
 
-## Frontend:
+ ** Frontend: **
 ● HTML
 ● CSS
 ● Javascript
 ● Jquery <br>
-## Backend:
+** Backend: **
 ● PHP
 ● MySQL for database <br>
-## Building models/features:
+** Building models/features: **
 ● Python
 ● Machine Learning
 ● Tensorflow
@@ -109,7 +109,7 @@ message displayed if wrong details entered.  <br>
 ● Streamlit
 ● Numpy
 ● Deep Learning <br>
-## Design												    
+** Design **												    
 ● Figma <br>
 
 
@@ -117,14 +117,57 @@ message displayed if wrong details entered.  <br>
 
 ## ⚙️ Instructions for running project locally
 
+1. Clone the repo <br>
+2. Download the following packages of python to run Pulse Rate Detector Model first and then run the app.py file . <br>
+
+altair==4.2.0 <br>
+av==9.2.0 <br>
+matplotlib==3.4.2 <br>
+numpy==1.22.4 <br>
+opencv_python < 4.5.2.54 <br>
+Pillow==9.1.1 <br>
+requests==2.25.1 <br>
+st_annotated_text==3.0.0 <br>
+streamlit==1.9.0 <br>
+streamlit_webrtc==0.37.0 <br>
+
+Heart Rate Detection Model is deployed locally using streamlit and then by running app.py , it opens on link: http://localhost:8501/ <br>
+
+3. Download the folder from github and  xampp server in that xampp->htdocs paste the folder and add the sql database file to phpmyadmin and run the website locally.
+  Also launch the heart rate monitor locally following step 2 locally.	<br> <br>										    
 
 
  
 ## ◼️Project Methodology
 
+Agile Software Development Methodology is used in making micro-MediDetect-age
+by dividing the large project feature into small chunks and agile sprints. Dividing the
+project into two agile sprints with each sprint further divided in 3 phases: <br>
+1. ** Planning and Prototyping Phase:** In this proper workflow structure was made
+with techstack and functionalities to be implemented. Followed by that,
+prototyping by designing the UI on Figma and then implementation of it as
+website. <br>
+2. ** Implementation **- building the fully functional features in this phase. <br>
+3. ** Testing and Review **
+First Sprint:
+Starting Date: 7th May, 2022
+Ending Date: 20th May, 2022
+Features Developed and Released: Heart pulse rate detection model using face
+recognition and deployment using streamlit, account creation system, Wilson
+Detection model.
+Second Sprint:
+Starting Date: 20th May, 2022
+Ending Date: 26th May,2022
+Features Developed and Released: Involved ironing out bugs from the first sprint,
+website creation, genetic diseases prediction feature using face recognition, voice
+chatbot and immediate hospital finder.
+Following Agile SDLC involved releasing the features like heart rate model by
+deploying it and enhancing its accuracy parallely with other features. It resulted in
+completion of project in time, ready to make changes and frequent delivery of
+product.
 
 
-## 💻
+## 💻 Project Pictures
 
 
 
