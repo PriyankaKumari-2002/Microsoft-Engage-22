@@ -32,6 +32,69 @@ This is my project for Microsoft Engage 2022 under Face Recognition track to dia
 </p>
 
 ---
+## 🔗 Important Links
+ 👉
+ 👉[Video Demo](https://youtu.be/QJ9o6T1rgBw)
+ 👉 [Documentation](https://docs.google.com/document/d/1ywypT24DVXsVZUW7jRAg4Z631YMjOSPI4hjyhklrhx8/edit#heading=h.tvto5hccx0b6)
+ 👉 [UI Figma Design](https://www.figma.com/file/PLF0WhBHO1Fgt3LyIuLXZZ/micro-MediDetect-age?node-id=1%3A2)
+ 
+	
+## 📋 Project Overview
+
+
+
+## 🔖 Introduction
+	
+
+
+![img]()
+
+## 💡Features
+	
+☢ 
+
+⚡ 
+	
+📺 
+
+🌿 
+
+🧬 
+
+⚛ 
+
+<br> </br>
+## 🌻 Motivation
+
+
+
+![GIF demo](.gif)
+
+<br/>
+
+## 🧰 Tools and Technologies used
+
+
+
+
+
+## ⚙️ Installation
+
+```
+<br/>
+
+ 
+## 💻 Project Methodology
+
+
+
+## 📈 Deployment
+
+
+
+
+												    
+												    
 <h3 align="left">Tools and Technologies Used:</h3>
 <p align="left">
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
