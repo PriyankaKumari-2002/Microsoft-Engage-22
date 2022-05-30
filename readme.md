@@ -91,12 +91,12 @@ message displayed if wrong details entered.  <br>
 
 ## 🧰 Tools and Technologies used
 
- **Frontend:**
+ **Frontend: **
 ● HTML
 ● CSS
 ● Javascript
 ● Jquery <br>
-**Backend:**
+**Backend: **
 ● PHP
 ● MySQL for database <br>
 **Building models/features:**
@@ -108,7 +108,7 @@ message displayed if wrong details entered.  <br>
 ● Streamlit
 ● Numpy
 ● Deep Learning <br>
-**Design**												    
+**Design **												    
 ● Figma <br>
 
 
