@@ -35,7 +35,7 @@ This is my project for Microsoft Engage 2022 under Face Recognition track to dia
 		<td>
 		Priyanka Kumari
 		<p align="center">
-			<img src = "https://avatars.githubusercontent.com/u/59661067?s=400&u=380275c84d3c07dce16d669b01755d7f020d133a&v=4" width="150" height="150" alt="Priyanka Kumari">
+			<img src = "" width="150" height="150" alt="Priyanka Kumari">
 		</p>
 			<p align="center">
 				<a href = "https://github.com/PriyankaKumari-2002">
