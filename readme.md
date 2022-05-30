@@ -57,7 +57,7 @@ micro-MediDetect-age is a non-invasive and no cost diagnosis solution to check p
 
 ## 💡Features
 	
-## 👩‍💻 User Login/ Signup  <br>
+** 👩‍💻 User Login/ Signup**  <br>
 1.1 Description: Users can securely login with their email id and password used <br>
 for creating an account on micro-MediDetect-age <br>
 1.1.1 Input: Name, email ID, password for account creation, and email ID <br>
@@ -91,12 +91,12 @@ message displayed if wrong details entered.  <br>
 
 ## 🧰 Tools and Technologies used
 
- **Frontend: **
+ **Frontend:**
 ● HTML
 ● CSS
 ● Javascript
 ● Jquery <br>
-**Backend: **
+**Backend:**
 ● PHP
 ● MySQL for database <br>
 **Building models/features:**
@@ -108,7 +108,7 @@ message displayed if wrong details entered.  <br>
 ● Streamlit
 ● Numpy
 ● Deep Learning <br>
-**Design **												    
+**Design**												    
 ● Figma <br>
 
 
