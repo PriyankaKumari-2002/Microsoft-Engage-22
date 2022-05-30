@@ -34,9 +34,9 @@ This is my project for Microsoft Engage 2022 under Face Recognition track to dia
 ---
 ## 🔗 Important Links
  👉
- 👉[Video Demo](https://youtu.be/QJ9o6T1rgBw)
- 👉 [Documentation](https://docs.google.com/document/d/1ywypT24DVXsVZUW7jRAg4Z631YMjOSPI4hjyhklrhx8/edit#heading=h.tvto5hccx0b6)
- 👉 [UI Figma Design](https://www.figma.com/file/PLF0WhBHO1Fgt3LyIuLXZZ/micro-MediDetect-age?node-id=1%3A2)
+ 👉[Video Demo](https://youtu.be/QJ9o6T1rgBw) <br>
+ 👉 [Documentation](https://docs.google.com/document/d/1ywypT24DVXsVZUW7jRAg4Z631YMjOSPI4hjyhklrhx8/edit#heading=h.tvto5hccx0b6) <br>
+ 👉 [UI Figma Design](https://www.figma.com/file/PLF0WhBHO1Fgt3LyIuLXZZ/micro-MediDetect-age?node-id=1%3A2) <br>
  
 	
 ## 📋 Project Overview
@@ -80,8 +80,7 @@ This is my project for Microsoft Engage 2022 under Face Recognition track to dia
 
 ## ⚙️ Installation
 
-```
-<br/>
+
 
  
 ## 💻 Project Methodology
