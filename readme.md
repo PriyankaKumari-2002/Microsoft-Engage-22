@@ -169,7 +169,7 @@ product. <br>
   
  ## 💻 Project Pictures
  
- ![GIF demo](https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Engage22Project-GIF.gif)
+
  
  <p align="center">
 <a href="#">
@@ -189,7 +189,7 @@ product. <br>
 </a>
 	</p>
  
-
+ ![GIF demo](https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Engage22Project-GIF.gif)
 
 
 
