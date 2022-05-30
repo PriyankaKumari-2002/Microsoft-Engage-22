@@ -84,11 +84,6 @@ message displayed if wrong details entered.  <br>
 
 <br>
 
-
-
-
-
-
 ## 🧰 Tools and Technologies used
 
  **Frontend:**
@@ -110,8 +105,6 @@ message displayed if wrong details entered.  <br>
 ● Deep Learning <br>
 **Design**												    
 ● Figma <br>
-
-
 
 
 ## ⚙️ Instructions for running project locally
@@ -178,14 +171,16 @@ product. <br>
  
  <p align="center">
 <a href="#">
-	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg4.png?raw=true width="450", height="160" alt="Microsoft Engage 22"/>
-	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg4.png?raw=true width="450", height="130" alt="Microsoft Engage 22"/>
-	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg4.png?raw=true width="450", height="130" alt="Microsoft Engage 22"/>
-	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg4.png?raw=true width="450", height="130" alt="Microsoft Engage 22"/>
-	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg4.png?raw=true width="450", height="130" alt="Microsoft Engage 22"/>
-	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg4.png?raw=true width="450", height="130" alt="Microsoft Engage 22"/>
-	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg4.png?raw=true width="450", height="130" alt="Microsoft Engage 22"/>
-	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg4.png?raw=true width="450", height="130" alt="Microsoft Engage 22"/>
+	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg1.png?raw=true width="450", height="180" alt="Microsoft Engage 22"/>
+   <img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg2.png?raw=true width="450", height="180" alt="Microsoft Engage 22"/>
+   <img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg3.png?raw=true width="450", height="180" alt="Microsoft Engage 22"/>
+	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg4.png?raw=true width="450", height="180" alt="Microsoft Engage 22"/>
+	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg7.png?raw=true width="450", height="180" alt="Microsoft Engage 22"/>
+	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg4.png?raw=true width="450", height="180" alt="Microsoft Engage 22"/>
+	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg5.png?raw=true width="450", height="180" alt="Microsoft Engage 22"/>
+	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg6.png?raw=true width="450", height="180" alt="Microsoft Engage 22"/>
+	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg10.png?raw=true width="450", height="180" alt="Microsoft Engage 22"/>
+	
 </a>
 	</p>
  
