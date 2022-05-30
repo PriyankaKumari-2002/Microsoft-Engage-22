@@ -65,20 +65,20 @@ and password <br>
 1.1.2 Output: Redirect if successful login/ account creation and error
 message displayed if wrong details entered.  <br>
 
-## 🫀 Heart Rate Detector Model:
-2.1 Face Recognition
-2.2 Forehead detect in face
-2.2 Heart Rate/ Pulse Rate Detection Model
-2.3 Web Electrocardiogram Generation
+## 🫀 Heart Rate Detector Model: <br>
+2.1 Face Recognition <br>
+2.2 Forehead detect in face <br>
+2.2 Heart Rate/ Pulse Rate Detection Model <br>
+2.3 Web Electrocardiogram Generation <br>
 	
-👁️ ## Wilson Syndrome Detector 
-3.1 Face and Eye Recognition
-3.2  Kayser-Fleischer rings / Brown rings detection in eyes to detect disease
+## 👁️  Wilson Syndrome Detector <br>
+3.1 Face and Eye Recognition <br>
+3.2  Kayser-Fleischer rings / Brown rings detection in eyes to detect disease <br>
 
-⚕️## Genetic Disease Detector
-🏥 ## Immediate Hospital Finder
-🤖 ## Voice Chat Bot
-🧻 ## Proper Documentation
+## ⚕️ Genetic Disease Detector
+## 🏥  Immediate Hospital Finder
+## 🤖  Voice Chat Bot
+## 🧻  Proper Documentation
 
 
 <br> </br>
@@ -92,20 +92,39 @@ message displayed if wrong details entered.  <br>
 
 ## 🧰 Tools and Technologies used
 
+Frontend:
+● HTML
+● CSS
+● Javascript
+● Jquery
+Backend:
+● PHP
+● MySQL for database
+Building models/features:
+● Python
+● Machine Learning
+● Tensorflow
+● Opencv
+● Pytorch
+● Streamlit
+● Numpy
+● Deep Learning
+Design												    
+● Figma
 
 
 
 
-## ⚙️ Installation
+## ⚙️ Instructions for running project locally
 
 
 
  
-## 💻 Project Methodology
+## ◼️Project Methodology
 
 
 
-## 📈 Deployment
+## 💻
 
 
 
