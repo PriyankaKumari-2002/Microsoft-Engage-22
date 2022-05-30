@@ -176,12 +176,9 @@ product. <br>
   
  ## 💻 Project Pictures
  
- 
-![GIF demo](https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Engage22Project-GIF.gif)
-
-<p align="center">
+ <p align="center">
 <a href="#">
-	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg4.png?raw=true width="450", height="130" alt="Microsoft Engage 22"/>
+	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg4.png?raw=true width="450", height="160" alt="Microsoft Engage 22"/>
 	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg4.png?raw=true width="450", height="130" alt="Microsoft Engage 22"/>
 	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg4.png?raw=true width="450", height="130" alt="Microsoft Engage 22"/>
 	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg4.png?raw=true width="450", height="130" alt="Microsoft Engage 22"/>
@@ -191,6 +188,10 @@ product. <br>
 	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg4.png?raw=true width="450", height="130" alt="Microsoft Engage 22"/>
 </a>
 	</p>
+ 
+![GIF demo](https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Engage22Project-GIF.gif)
+
+
 
  ## Contributors
 
