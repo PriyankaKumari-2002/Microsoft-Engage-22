@@ -85,7 +85,7 @@ message displayed if wrong details entered.  <br>
 
 
 
-![GIF demo](.gif)
+![GIF demo](https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Engage22Project-GIF.gif)
 
 
 
