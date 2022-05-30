@@ -7,13 +7,13 @@ This is my project for Microsoft Engage 2022 under Face Recognition track to dia
 	<h2 align="center">micro-MediDetect-age</h2>
 	<h3 align="center">A non-invasive and no cost diagnosis solution to check pulse rate and genetic diseases remotely and safely...<h3>
 	<br />
- <p align="center"> 
+
   [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-blue?style=flat-square&logo=appveyor)](https://docs.google.com/document/d/1ywypT24DVXsVZUW7jRAg4Z631YMjOSPI4hjyhklrhx8/edit?usp=sharing) 
   [![UI  ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-yellow?style=flat-square&logo=appveyor)](https://www.figma.com/file/PLF0WhBHO1Fgt3LyIuLXZZ/micro-MediDetect-age?node-id=1%3A2)
 [![VIDEO ](https://img.shields.io/badge/Video-Link%20to%20Video-blue?style=flat-square&logo=appveyor)](https://youtu.be/QJ9o6T1rgBw)
  </p>
   
-<p align="center">
+
     <a href="https://docs.google.com/document/d/1ywypT24DVXsVZUW7jRAg4Z631YMjOSPI4hjyhklrhx8/edit?usp=sharing"><strong>Check Project Documentation »</strong></a>
     <br />
     <br />
