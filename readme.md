@@ -55,6 +55,8 @@ micro-MediDetect-age is a non-invasive and no cost diagnosis solution to check p
 
 
 
+![GIF demo](https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Engage22Project-GIF.gif)
+
 ## 💡Features
 	
 👩‍💻 **User Login/ Signup**  <br>
@@ -84,8 +86,6 @@ message displayed if wrong details entered.  <br>
 
 
 
-
-![GIF demo](https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Engage22Project-GIF.gif)
 
 
 
@@ -139,7 +139,7 @@ message displayed if wrong details entered.  <br>
  
 ## ◼️Project Methodology
 
-Agile Software Development Methodology is used in making micro-MediDetect-age
+**Agile Software Development Methodology** is used in making micro-MediDetect-age
 by dividing the large project feature into small chunks and agile sprints. Dividing the
 project into two agile sprints with each sprint further divided in 3 phases: <br>
 1. **Planning and Prototyping Phase:** In this proper workflow structure was made
