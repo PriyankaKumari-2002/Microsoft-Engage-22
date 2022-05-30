@@ -57,15 +57,15 @@ micro-MediDetect-age is a non-invasive and no cost diagnosis solution to check p
 
 ## 💡Features
 	
-👩‍💻 ## User Login/ Signup 
-1.1 Description: Users can securely login with their email id and password used
-for creating an account on micro-MediDetect-age
-1.1.1 Input: Name, email ID, password for account creation, and email ID
-and password
+## 👩‍💻 User Login/ Signup  <br>
+1.1 Description: Users can securely login with their email id and password used <br>
+for creating an account on micro-MediDetect-age <br>
+1.1.1 Input: Name, email ID, password for account creation, and email ID <br>
+and password <br>
 1.1.2 Output: Redirect if successful login/ account creation and error
-message displayed if wrong details entered. 
+message displayed if wrong details entered.  <br>
 
-🫀 ## Heart Rate Detector Model:
+## 🫀 Heart Rate Detector Model:
 2.1 Face Recognition
 2.2 Forehead detect in face
 2.2 Heart Rate/ Pulse Rate Detection Model
