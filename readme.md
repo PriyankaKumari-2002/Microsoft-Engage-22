@@ -14,9 +14,11 @@ This is my project for Microsoft Engage 2022 under Face Recognition track to dia
  </p>
   
 <p align="center">
+    .
     <a href="https://docs.google.com/document/d/1ywypT24DVXsVZUW7jRAg4Z631YMjOSPI4hjyhklrhx8/edit?usp=sharing"><strong>Check Project Documentation »</strong></a>
     <br />
     <br />
+    .												      
     <a href="https://drive.google.com/file/d/1gzN61MzQIy3J_Dan4hOnz3lAhElTWKUO/view?usp=sharing
 ">View Demo</a>
  <a href="https://youtu.be/QJ9o6T1rgBw">You Tube Video Demo Link </a>
