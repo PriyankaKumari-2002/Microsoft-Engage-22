@@ -33,21 +33,27 @@ This is my project for Microsoft Engage 2022 under Face Recognition track to dia
 
 ---
 ## 🔗 Important Links
- 👉
+
  👉[Video Demo](https://youtu.be/QJ9o6T1rgBw) <br>
  👉 [Documentation](https://docs.google.com/document/d/1ywypT24DVXsVZUW7jRAg4Z631YMjOSPI4hjyhklrhx8/edit#heading=h.tvto5hccx0b6) <br>
  👉 [UI Figma Design](https://www.figma.com/file/PLF0WhBHO1Fgt3LyIuLXZZ/micro-MediDetect-age?node-id=1%3A2) <br>
  
 	
 ## 📋 Project Overview
-
+micro-MediDetect-age is a fully functional disease diagnosing website using face recognition
+technology made using Agile development methodology as part of the Microsoft Engage 2022
+program. 
 
 
 ## 🔖 Introduction
 	
+Taking a pulse is a very important part of heart health checks. A person's resting heart rate is a major factor in determining a person's risk of a heart attack. So, what if you could determine the pulse rate with just using webcam/camera? Early detection of Genetic Diseases  help in early intervention and treatment, which may either cure the disease or improve the outcome of the patient but still doctors struggle to recognize as they don't spench much time with them.
+												    
+Keeping all this in mind, introducting you my project micro-MediDetect-age...
+												    
+micro-MediDetect-age is a non-invasive and no cost diagnosis solution to check pulse rate and genetic diseases remotely and safely.
 
 
-![img]()
 
 ## 💡Features
 	
