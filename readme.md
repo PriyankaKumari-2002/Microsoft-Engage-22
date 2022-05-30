@@ -57,7 +57,7 @@ micro-MediDetect-age is a non-invasive and no cost diagnosis solution to check p
 
 ## 💡Features
 	
-** 👩‍💻 User Login/ Signup**  <br>
+👩‍💻 **User Login/ Signup**  <br>
 1.1 Description: Users can securely login with their email id and password used <br>
 for creating an account on micro-MediDetect-age <br>
 1.1.1 Input: Name, email ID, password for account creation, and email ID <br>
@@ -65,20 +65,20 @@ and password <br>
 1.1.2 Output: Redirect if successful login/ account creation and error
 message displayed if wrong details entered.  <br>
 
-## 🫀 Heart Rate Detector Model: <br>
+ 🫀 **Heart Rate Detector Model:** <br>
 2.1 Face Recognition <br>
 2.2 Forehead detect in face <br>
 2.2 Heart Rate/ Pulse Rate Detection Model <br>
 2.3 Web Electrocardiogram Generation <br>
 	
-## 👁️  Wilson Syndrome Detector <br>
+ 👁️  **Wilson Syndrome Detector** <br>
 3.1 Face and Eye Recognition <br>
 3.2  Kayser-Fleischer rings / Brown rings detection in eyes to detect disease <br>
 
-## ⚕️ Genetic Disease Detector
-## 🏥  Immediate Hospital Finder
-## 🤖  Voice Chat Bot
-## 🧻  Proper Documentation
+ ⚕️ **Genetic Disease Detector**
+ 🏥 **Immediate Hospital Finder**
+## 🤖 **Voice Chat Bot**
+## 🧻 **Proper Documentation**
 
 <br>
 
