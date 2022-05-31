@@ -20,7 +20,7 @@ This is my project for Microsoft Engage 2022 under Face Recognition track to dia
     <br />
     <br />
    												      
-
+  <p align="center">
    .
     <a href="https://youtu.be/QJ9o6T1rgBw"> Project Video Demo Link </a>
     ·
