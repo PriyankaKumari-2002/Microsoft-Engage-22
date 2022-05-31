@@ -121,9 +121,11 @@ message displayed if wrong details entered.  <br>
    st_annotated_text==3.0.0 <br>
    streamlit==1.9.0 <br>
    streamlit_webrtc==0.37.0 <br>
+<p align="center">
    <a href="#">
 	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/app.png?raw=true width="450", height="130" alt="Microsoft Engage 22"/>
 </a>
+</p>
 
    Heart Rate Detection Model is deployed locally using streamlit and then by running app.py , it opens on link: http://localhost:8501/ <br>
 
