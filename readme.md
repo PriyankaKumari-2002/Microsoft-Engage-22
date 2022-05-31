@@ -21,8 +21,8 @@ This is my project for Microsoft Engage 2022 under Face Recognition track to dia
     <br />
    												      
 
- .
- <a href="https://youtu.be/QJ9o6T1rgBw"> Project Video Demo Link </a>
+   .
+    <a href="https://youtu.be/QJ9o6T1rgBw"> Project Video Demo Link </a>
     ·
     <a href="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/issues">Report Issues</a>
     ·
