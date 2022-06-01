@@ -72,14 +72,14 @@ message displayed if wrong details entered.  <br>
 2.2 Heart Rate/ Pulse Rate Detection Model <br>
 2.3 Web Electrocardiogram Generation <br>
 This feature will help to diagnose critical diseases...Some of them are: <br>
->> Coronary artery disease <br>
->> Heart Attack <br>
->> Ventricular Tachycardia <br>
->> Cardiomyopathy (Where the heart walls becomes thickened or enlarged) <br>
->> Atrial Fibrillation/Asthma --(People with asthma could be at 1.5 times higher risk of developing atrial fibrillation) <br>
->> COPD (Chronic Obstructive Pulmonary Disease)	<br>	
->> Arrhythmias <br>
->> Pneumonia --(it can push heart into abnormal fast rhythms) <br>												    
+$ Coronary artery disease <br>
+$ Heart Attack <br>
+$ Ventricular Tachycardia <br>
+$ Cardiomyopathy (Where the heart walls becomes thickened or enlarged) <br>
+$ Atrial Fibrillation/Asthma --(People with asthma could be at 1.5 times higher risk of developing atrial fibrillation) <br>
+$ COPD (Chronic Obstructive Pulmonary Disease)	<br>	
+$ Arrhythmias <br>
+$ Pneumonia --(it can push heart into abnormal fast rhythms) <br>												    
  👁️  **Wilson Syndrome Detector** <br>
 3.1 Face and Eye Recognition <br>
 3.2  Kayser-Fleischer rings / Brown rings detection in eyes to detect disease <br>
