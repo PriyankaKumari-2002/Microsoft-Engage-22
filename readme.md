@@ -71,12 +71,21 @@ message displayed if wrong details entered.  <br>
 2.2 Forehead detect in face <br>
 2.2 Heart Rate/ Pulse Rate Detection Model <br>
 2.3 Web Electrocardiogram Generation <br>
-	
+This feature will help to diagnose critical diseases...Some of them are: <br>
+>> Coronary artery disease <br>
+>> Heart Attack <br>
+>> Ventricular Tachycardia <br>
+>> Cardiomyopathy (Where the heart walls becomes thickened or enlarged) <br>
+>> Atrial Fibrillation/Asthma --(People with asthma could be at 1.5 times higher risk of developing atrial fibrillation) <br>
+>> COPD (Chronic Obstructive Pulmonary Disease)	<br>	
+>> Arrhythmias <br>
+>> Pneumonia --(it can push heart into abnormal fast rhythms) <br>												    
  👁️  **Wilson Syndrome Detector** <br>
 3.1 Face and Eye Recognition <br>
 3.2  Kayser-Fleischer rings / Brown rings detection in eyes to detect disease <br>
 
  ⚕️ **Genetic Disease Detector**  <br>
+ Find all the Google Colaboratory notebooks of genetic disease detector here : https://drive.google.com/drive/folders/1wFTd4E8ubqkWdIrulmBdffUXk092Hk-m
  🏥 **Immediate Hospital Finder** <br>
  🤖 **Voice Chat Bot**  <br>
  🧻 **Proper Documentation** <br>
@@ -108,7 +117,7 @@ message displayed if wrong details entered.  <br>
 
 ## ⚙️ Instructions for running project locally
 
-1. Clone the repo <br>
+1. Clone the repo https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22 <br>
 2. Download the following packages of python to run Pulse Rate Detector Model first and then run the app.py file . <br>
 
    altair==4.2.0 <br>
