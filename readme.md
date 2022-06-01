@@ -152,6 +152,8 @@ This feature is able to **detect the following genetic disorders at an early sta
    <a href="#">
 	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/app.png?raw=true width="600", height="300" alt="Microsoft Engage 22"/>
 	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pulseDetect.png?raw=true width="600", height="300" alt="Microsoft Engage 22"/>
+	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/micro-pulse-age.drawio.png?raw=true width="600", height="300" alt="Microsoft Engage 22"/>
+	
 </a>
 </p>
 
@@ -225,15 +227,15 @@ Deployment of Genetic Disease Detection Model |   Deploying genetic disease dete
 Skin Disease Detection  | Making Skin Disease Detection model using face recognition and adding it as one more service
 OTP Security System | Automatic OTP Snder on mobile and email during login as one more security layer using WebOTP API. 
 
-## 💻 Project Pictures
+## 🔶UML Diagrams, Testing Results
 <p align="center">
 <a href="https://acehacker.com/microsoft/engage2022/">
-	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/login%20sequential.png?raw=true width="450", height="130" alt="Microsoft Engage 22"/>
-	<img src="?raw=true width="450", height="130" alt="Microsoft Engage 22"/>
-   <img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/password%20authenication.png?raw=true width="450", height="130" alt="Microsoft Engage 22"/>
-	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/register%20sequential.png?raw=true width="450", height="130" alt="Microsoft Engage 22"/>
-	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/Testing%201.png?raw=true width="450", height="130" alt="Microsoft Engage 22"/>
-	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/Testing%202.png?raw=true width="450", height="130" alt="Microsoft Engage 22"/>
+	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/login%20sequential.png?raw=true width="600", height="220" alt="Microsoft Engage 22"/>
+	
+   <img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/password%20authenication.png?raw=true width="600", height="220" alt="Microsoft Engage 22"/>
+	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/register%20sequential.png?raw=true width="600", height="220" alt="Microsoft Engage 22"/>
+	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/Testing%201.png?raw=true width="600", height="220" alt="Microsoft Engage 22"/>
+	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/Testing%202.png?raw=true width="600", height="220" alt="Microsoft Engage 22"/>
 	
 </a>
 
