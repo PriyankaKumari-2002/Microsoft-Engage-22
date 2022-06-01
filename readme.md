@@ -151,6 +151,7 @@ This feature is able to **detect the following genetic disorders at an early sta
 <p align="left">
    <a href="#">
 	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/app.png?raw=true width="600", height="300" alt="Microsoft Engage 22"/>
+	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pulseDetect.png?raw=true width="600", height="300" alt="Microsoft Engage 22"/>
 </a>
 </p>
 
@@ -212,7 +213,7 @@ product. <br>
 	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg10.png?raw=true width="450", height="130" alt="Microsoft Engage 22"/>
 	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg11.png?raw=true width="450", height="130" alt="Microsoft Engage 22"/>
 	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg9.png?raw=true width="450", height="130" alt="Microsoft Engage 22"/>
-	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg%2013.png?raw=true width="450", height="130" alt="Microsoft Engage 22"/>
+	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg%2013.png?raw=true width="700", height="130" alt="Microsoft Engage 22"/>
 </a>
  
  ![GIF demo](https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Engage22Project-GIF.gif)
