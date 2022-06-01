@@ -195,6 +195,14 @@ product. <br>
  
  ![GIF demo](https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Engage22Project-GIF.gif)
 
+## 🚩 Future Scopes:-
+Feature | Explanation
+------------ | -------------
+Deployment of Genetic Disease Detection Model |   Deploying genetic disease detection model and integrating on
+           website.
+Skin Disease Detection  | Making Skin Disease Detection model using face recognition and adding it as one more service
+OTP Security System | Automatic OTP Snder on mobile and email during login as one more security layer using WebOTP API. 
+
 
 
  ## Contributors
@@ -218,6 +226,9 @@ product. <br>
 	</tr>
 </table>
 
+
 <p align="center">
 	Made with :heart: by <a href="https://github.com/PriyankaKumari-2002">Priyanka Kumari</a>
+	You can also check [My Project Documentation/ Report](https://docs.google.com/document/d/1ywypT24DVXsVZUW7jRAg4Z631YMjOSPI4hjyhklrhx8/edit#heading=h.psnahpqn4tlc)
+	Thank you ! Microsoft Team for such a wonderful mentorship program ❤️
 </p>
