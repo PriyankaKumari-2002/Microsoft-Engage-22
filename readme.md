@@ -173,8 +173,12 @@ product. <br>
   
  ## 💻 Project Pictures
  
+Feature | Images
+------------ | -------------
+ **Registration Page**  
+  | <img width="750px" height="300px" src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg1">
+Login Page[image](https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg2.png) |Dashboard ![image](https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pg3.png) | 
 
- 
  <p align="center">
 
 	<a href="#">
