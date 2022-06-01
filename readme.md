@@ -227,20 +227,8 @@ Deployment of Genetic Disease Detection Model |   Deploying genetic disease dete
 Skin Disease Detection  | Making Skin Disease Detection model using face recognition and adding it as one more service
 OTP Security System | Automatic OTP Snder on mobile and email during login as one more security layer using WebOTP API. 
 
-## 🔶UML Diagrams, Testing Results
-<p align="center">
-<a href="https://acehacker.com/microsoft/engage2022/">
 
-	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/register%20sequential.png?raw=true width="700", height="300" alt="Microsoft Engage 22"/>
-	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/login%20sequential.png?raw=true width="700", height="300" alt="Microsoft Engage 22"/>
-	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/password%20authenication.png?raw=true width="700", height="300" alt="Microsoft Engage 22"/>
-	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/Testing%201.png?raw=true width="700", height="300" alt="Microsoft Engage 22"/>
-	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/Testing%202.png?raw=true width="700", height="300" alt="Microsoft Engage 22"/>
-	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/micro-pulse-age.drawio.png?raw=true width="700", height="300" alt="Microsoft Engage 22"/>
-</a>
-</p>
-
- ## Contributors
+## Contributors
 
 <table>
 	<tr align="center">
