@@ -85,7 +85,7 @@ $ Pneumonia --(it can push heart into abnormal fast rhythms) <br>
 3.2  Kayser-Fleischer rings / Brown rings detection in eyes to detect disease <br>
 
  ⚕️ **Genetic Disease Detector**  <br>
- This feature is able to **detect the following genetic disorders at an early stage so that it can be cured to an extent /proper treatment can be done** :
+This feature is able to **detect the following genetic disorders at an early stage so that it can be cured to an extent /proper treatment can be done** : <br>
  $ Down’s Syndrome <br>
  $ FragileX Syndrome (FXS) <br>
  $ Marfan Syndrome <br>
@@ -93,8 +93,17 @@ $ Pneumonia --(it can push heart into abnormal fast rhythms) <br>
  $ Cornelia de Lange (CDL) <br>
  $ Turner Syndrome <br>
  $ Sotos Syndrome <br>
-												    
- **Find all the Google Colaboratory notebooks of genetic disease detector here :**  https://drive.google.com/drive/folders/1wFTd4E8ubqkWdIrulmBdffUXk092Hk-m <br>
+**Methodology Used**
+> On top of VGGFace, I used four Fully Connected layers. Then, on top of it, three fully linked layers and an SVM classifier. The Transfer Learning method used  allowed to re-use previously learnt features. <br>
+> The SGD optimizer was employed with a very low learning rate of 0.0001 and a momentum of 0.9. <br>
+> When the validation loss stopped improving, a callback was defined in keras to reduce the learning rate by 0.1. <br>
+> In each example, the batch size was set at 32. <br>
+> As a baseline for good categorization, we try to reduce cross-entropy loss. <br>
+> The deep learning classifier has been created using the keras (v2) package. <br>
+> The Tesla K80 GPU is used to train the model. <br>
+> The accuracies stabilised around 100 epochs after a total of 200 epochs were run. <br> 									
+
+**Find all the Google Colaboratory notebooks of genetic disease detector here :**  https://drive.google.com/drive/folders/1wFTd4E8ubqkWdIrulmBdffUXk092Hk-m <br>
  🏥 **Immediate Hospital Finder** <br>
  🤖 **Voice Chat Bot**  <br>
  🧻 **Proper Documentation** <br>
