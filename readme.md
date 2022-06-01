@@ -39,8 +39,8 @@ This is my project for Microsoft Engage 2022 under **Face Recognition track to d
  
 	
 ## 📋 Project Overview
-micro-MediDetect-age is a fully functional disease diagnosing website using face recognition
-technology made using Agile development methodology as part of the Microsoft Engage 2022
+micro-MediDetect-age is a fully functional **disease diagnosing website using face recognition
+technology made using Agile development methodology** as part of the Microsoft Engage 2022
 program. 
 
 
