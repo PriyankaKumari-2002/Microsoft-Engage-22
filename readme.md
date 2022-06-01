@@ -238,7 +238,7 @@ OTP Security System | Automatic OTP Snder on mobile and email during login as on
 	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/Testing%202.png?raw=true width="700", height="300" alt="Microsoft Engage 22"/>
 	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/micro-pulse-age.drawio.png?raw=true width="700", height="300" alt="Microsoft Engage 22"/>
 </a>
-	</p>
+</p>
 
  ## Contributors
 
